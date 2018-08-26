@@ -1,0 +1,1 @@
+<p align="center">Copy right &copy; 2018 Nguyen Duc Thanh. All Rights Reserved</p>
